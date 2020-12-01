@@ -44,10 +44,9 @@ def make_teams_leaderboard_df(leaderboard, teams, metric):
 
 
 def main():
-    leaderboard_url = 'https://adventofcode.com/2020/leaderboard/private/view/1021522.json'
-    cookie = '53616c7465645f5f8d0bc9a25eb833b45a33898430b29371a155ff4758e12207b0ca0529077bd4be62df2edaa2f784e7'
-    teams = [{'team': 'Team Rocket', 'members': {'Pbatch': '1021522', 'Pbatch2': '1021522'}},
-             {'team': 'Team Plasma', 'members': {'Pbatch': '1021522'}}]
+    leaderboard_url = None
+    cookie = None
+    teams = None
     metric = sum
 
     if None in [leaderboard_url, cookie, teams]:
