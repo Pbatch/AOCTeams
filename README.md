@@ -53,10 +53,10 @@ Print a markdown leaderboard to the terminal with
 
 Example: 
 
-| Team   |   1.1 |   1.2 |   Total |
-|:-------|------:|------:|--------:|
-| Team1  |     2 |     2 |       4 |
-| Team2  |     1 |     1 |       2 |
+| Team        |   1.1 |   1.2 |   Total |
+|:------------|------:|------:|--------:|
+| Team Rocket |     3 |     3 |       6 |
+| Team Plasma |     1 |     1 |       2 |
 
 # Advanced Usage
 
