@@ -55,7 +55,7 @@ Example:
 
 | Team        |   1.1 |   1.2 |   Total |
 |:------------|------:|------:|--------:|
-| Team Rocket |     3 |     3 |       6 |
+| Team Rocket |     2 |     2 |       4 |
 | Team Plasma |     1 |     1 |       2 |
 
 # Advanced Usage
