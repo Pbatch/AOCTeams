@@ -70,10 +70,10 @@ Now for a team to get a point, every member must answer the question successfull
 
 To encourage collaboration within teams try
 ```
->>> metric = lambda x: x*x
+>>> metric = lambda x: sum(x)**2
 ```
 Now a team is rewarded for getting more members to answer the same question.
 
-Warning - The square metric is not fair when teams are uneven.
+Warning - The squared sum is not fair when teams are uneven.
 
 
